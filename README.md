@@ -70,9 +70,9 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RajithaSampathV&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00fff5&icon_color=00fff5&text_color=ffffff" height="165"/>
+  <img src="https://github-readme-stats-two-zeta-58.vercel.app/api?username=RajithaSampathV&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00fff5&icon_color=00fff5&text_color=ffffff" height="165"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajithaSampathV&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00fff5&text_color=ffffff" height="165"/>
+  <img src="https://github-readme-stats-two-zeta-58.vercel.app/api/top-langs/?username=RajithaSampathV&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00fff5&text_color=ffffff" height="165"/>
 </div>
 
 <div align="center">
