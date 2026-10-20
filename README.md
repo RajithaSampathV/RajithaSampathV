@@ -6,7 +6,7 @@
 <!-- Typing Banner -->
 <div align="center">
   <a href="https://www.rajithasampath.dev">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F2A541&center=true&vCenter=true&width=650&lines=I+build+AI+agents+%26+business+apps+%F0%9F%A7%A0;Production+systems+%40+Sri+Lanka+Telecom+%F0%9F%9A%80;Full-Stack+%2B+Data+Science+%F0%9F%93%8A;Self-taught+since+2018+%E2%9A%A1;Open+for+freelance+projects+%F0%9F%92%BC" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F2A541&center=true&vCenter=true&width=650&lines=I+build+AI+agents+%26+business+apps+%F0%9F%A7%A0;Full-Stack+%2B+Data+Science+%F0%9F%93%8A;Self-taught+since+2018+%E2%9A%A1;Open+for+freelance+projects+%F0%9F%92%BC" alt="Typing SVG" />
   </a>
 </div>
 
