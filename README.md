@@ -1,4 +1,4 @@
-Revert README to previous version (e93fd08)<!-- Header Banner -->
+<!-- Header Banner -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E0F13,50:F2A541,100:4FD1C5&height=160&section=header&text=Rajitha%20Sampath&fontSize=42&fontColor=EDEAE3&fontAlignY=38&desc=Frontend%20%C2%B7%20Full-Stack%20%C2%B7%20AI&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 </div>
